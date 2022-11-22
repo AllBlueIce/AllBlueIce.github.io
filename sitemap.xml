@@ -2,27 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://yotoxy.github.io/manifest.json</loc>
+    <loc>http://allblueice.github.io/manifest.json</loc>
     
-    <lastmod>2022-11-17</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://yotoxy.github.io/posts/2f58d34a.html</loc>
-    
-    <lastmod>2022-11-17</lastmod>
+    <lastmod>2022-11-22</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>http://yotoxy.github.io/posts/fe41def7.html</loc>
+    <loc>http://allblueice.github.io/posts/2f58d34a.html</loc>
     
-    <lastmod>2022-11-17</lastmod>
+    <lastmod>2022-11-22</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://allblueice.github.io/posts/fe41def7.html</loc>
+    
+    <lastmod>2022-11-22</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -30,8 +30,8 @@
   
 
   <url>
-    <loc>http://yotoxy.github.io/</loc>
-    <lastmod>2022-11-17</lastmod>
+    <loc>http://allblueice.github.io/</loc>
+    <lastmod>2022-11-22</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
